@@ -37,6 +37,12 @@ Investigamos como o brasileiro paga suas compras:
 - **Manipulação:** Pandas, Numpy
 - **Visualização:** Matplotlib, Seaborn
 - **Ambiente:** VS Code / Jupyter Notebook
+  
+## 🚀 Como Executar
+1. Clone o repositório
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Adicione os CSVs do [Dataset Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) na pasta `/data`
+4. Abra `notebooks/1_AED.ipynb`
 
 ## 📁 Estrutura do Repositório
 ```text
